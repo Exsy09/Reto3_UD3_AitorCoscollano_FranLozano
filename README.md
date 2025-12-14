@@ -1,1 +1,1 @@
-Para que funcione bien el codigo tenemos que usar primero las clases PruebasMascotasJPA , PruebasDevolucionMascotasJPS y luego usar el pruebasConsultas para que no salten errores al no tener creado la base de datos 
+Para que funcione bien el código tenemos que usar primero la clase PruebasMascotasJPA, de manera opcional la clase PruebasDevolucionMascotasJPA, ya que esta clase solo es necesaria para el uso del reto anterior para hacer algo especifico, y luego usar el pruebasConsultas para que no salten errores al no tener creado la base de datos.
