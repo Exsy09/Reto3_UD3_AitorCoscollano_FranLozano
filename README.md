@@ -1,0 +1,1 @@
+Para que funcione bien el codigo tenemos que usar primero las clases PruebasMascotasJPA , PruebasDevolucionMascotasJPS y luego usar el pruebasConsultas para que no salten errores al no tener creado la base de datos 
